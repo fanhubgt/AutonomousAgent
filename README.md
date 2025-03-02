@@ -1,4 +1,5 @@
 # AutonomousAgent
+Autonomous vehicles employ a variety of AI agents, each with specific functions. This includes navigational systems making route decisions, predictive maintenance agents ensuring vehicle health, and AI-driven safety systems responding to dynamic road conditions.
 
 This is a simulation of an autopilot vehicle roaming in a contour confined space made in a visual form.
 
